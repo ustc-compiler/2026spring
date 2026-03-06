@@ -1,6 +1,6 @@
 # USTC _Principles and Techniques of Compiler(H)_ 2026spring course homepage
 
-Homepage link: <https://ustc-compiler.github.io/2025fall>
+Homepage link: <https://ustc-compiler.github.io/2026spring>
 
 This README is a toturial of how to write and preview the docs.
 
