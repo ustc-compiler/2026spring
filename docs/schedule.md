@@ -4,6 +4,7 @@
 | ---- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | #1   | 03-02 | 引论：[part1](./slides/01-intro.pdf)                                                                                                                                                                  | 书本第 1 章                                                                                                                                       |
 | #2   | 03-04 | 词法分析：[part1](./slides/02-lexicalAnalysis-Part1.pdf), [part2](./slides/02-lexicalAnalysis-Part2.pdf), [part3](./slides/02-lexicalAnalysis-Part3.pdf), [LLM](./slides/02-lexicalAnalysis-LLMs.pdf) | 书本第 2 章，[ANTLR Lexer Rules](https://github.com/antlr/antlr4/blob/master/doc/lexer-rules.md), [Flex](https://github.com/westes/flex/releases) |
+| #3   | 03-09 | _ = _                                                                                                                                                                                                 | _ = _                                                                                                                                             |
 
 ## 作业
 
