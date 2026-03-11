@@ -17,8 +17,8 @@
 
 | 实验编号 | 发布时间 | 实验名称                                                                                                                           | 截止时间 |
 | -------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| X1       | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/212/shixun_homework/496/detail?tabs=0) X1. 理解和使用 C++ 运行时类型信息 (RTTI)(选做) | 03-22    |
-| X2       | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/537/detail?tabs=0) X2. 理解和使用 C++ 的智能指针 (选做)      | 03-22    |
+| X1       | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/215/shixun_homework/537/detail?tabs=0) X1. 理解和使用 C++ 运行时类型信息 (RTTI)(选做) | 03-22    |
+| X2       | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/215/shixun_homework/548/detail?tabs=0) X2. 理解和使用 C++ 的智能指针 (选做)           | 03-22    |
 | 1        | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/536/detail?tabs=0) 词法分析器的构造                          | 03-22    |
 
 > [编译原理 (H) 2026 春季学期实验分组与要求](./common/编译原理与技术实验设计.docx)
