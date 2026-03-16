@@ -6,12 +6,14 @@
 | #2   | 03-04 | 词法分析：[part1](./slides/02-lexicalAnalysis-Part1.pdf), [part2](./slides/02-lexicalAnalysis-Part2.pdf), [part3](./slides/02-lexicalAnalysis-Part3.pdf), [LLM](./slides/02-lexicalAnalysis-LLMs.pdf)                                                                                                            | 书本第 2 章，[ANTLR Lexer Rules](https://github.com/antlr/antlr4/blob/master/doc/lexer-rules.md), [Flex](https://github.com/westes/flex/releases)   |
 | #3   | 03-09 | _ = _                                                                                                                                                                                                                                                                                                            | _ = _                                                                                                                                               |
 | #4   | 03-11 | 语法分析：[part1](./slides/2024/03-parsing-part1.pdf), [part2](./slides/2024/03-parsing-part2-topdown.pdf), [part3](./slides/2024/03-parsing-part3-antlr.pdf), [part4](./slides/2024/03-parsing-part4-bottomup.pdf), [part5](./slides/2024/03-parsing-part5-lr.pdf), [part6](./slides/2024/03-parsing-part6.pdf) | 书本 3.1-3.6 节，[ANTLR Parser Rules](https://github.com/antlr/antlr4/blob/master/doc/parser-rules.md), [Bison](http://www.gnu.org/software/bison/) |
+| #5   | 03-16 | _ = _                                                                                                                                                                                                                                                                                                            | _ = _                                                                                                                                               |
 
 ## 作业
 
-| 作业编号 | 作业布置日期 | 作业题号码                                                      | 截止时间      | 作业提交方式                                                                                  |
-| -------- | ------------ | --------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------- |
-| 1        | 03-07        | 习题 2.7（a）（b）（c）、习题 2.3（b）（c）、习题 2.4（a）（c） | 03-15（周六） | [头歌作业一](https://educoder.ustc.edu.cn/classrooms/215/common_homework/534/detail) 在线提交 |
+| 作业编号 | 作业布置日期 | 作业题号码                                                      | 截止时间      | 作业提交方式                                                                                       |
+| -------- | ------------ | --------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------- |
+| 1        | 03-07        | 习题 2.7（a）（b）（c）、习题 2.3（b）（c）、习题 2.4（a）（c） | 03-15（周六） | [头歌作业一](https://educoder.ustc.edu.cn/classrooms/215/common_homework/534/detail) 在线提交      |
+| 2        | 03-16        | 习题 2.7 剩余部分、习题 2.16                                       | 03-23（周一） | [头歌作业二](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/551/detail) 在线提交 |
 
 ## 实验
 

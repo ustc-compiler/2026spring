@@ -19,7 +19,9 @@
 - **助教**：郑钊雨 [:material-email:](mailto:zh20011231@mail.ustc.edu.cn) [:simple-gitlab:{ .gitlab }](https://git.lug.ustc.edu.cn/Zzy_studio), 李清伟 (场外支持) [:material-email:](mailto:lqw332664203@mail.ustc.edu.cn) [:simple-gitlab:{ .gitlab }](https://git.lug.ustc.edu.cn/Lslightly)
 - **QQ 群**：1075525770
 - **Issue 讨论区**：[:simple-gitlab:{ .gitlab } compiler/course](https://git.lug.ustc.edu.cn/compiler/course/-/issues) (可以尝试在评论区中 `@compilerh-course-bot`)
-- **教材**：张昱、陈意云，[:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/book_compiler_hep_v4.pdf) 编译原理（第 4 版）——待出版
+- **教材**：张昱、陈意云，[:fontawesome-solid-file-pdf:{ .pdf }](http://staff.ustc.edu.cn/~yuzhang/compiler/202603bookv4-r1.pdf) 编译原理（第 4 版）
+  教材勘误：
+  ![教材勘误二维码](./勘误.jpg){ width="280" }
 - **实验平台**：[头歌平台](./common/educoder.md)
 - **往期课程主页**：[2025fall 课程主页](https://ustc-compiler.github.io/2025fall)
 
