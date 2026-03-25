@@ -8,7 +8,8 @@
 | #4   | 03-11 | 语法分析：[part1](./slides/2024/03-parsing-part1.pdf), [part2](./slides/2024/03-parsing-part2-topdown.pdf), [part3](./slides/2024/03-parsing-part3-antlr.pdf), [part4](./slides/2024/03-parsing-part4-bottomup.pdf), [part5](./slides/2024/03-parsing-part5-lr.pdf), [part6](./slides/2024/03-parsing-part6.pdf) | 书本 3.1-3.6 节，[ANTLR Parser Rules](https://github.com/antlr/antlr4/blob/master/doc/parser-rules.md), [Bison](http://www.gnu.org/software/bison/) |
 | #5   | 03-16 |                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                     |
 | #6   | 03-18 |                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                     |
-| #7   | 03-23 | _ = _                                                                                                                                                                                                                                                                                                            | _ = _                                                                                                                                               |
+| #7   | 03-23 |                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                     |
+| #8   | 03-25 | _ = _                                                                                                                                                                                                                                                                                                            | _ = _                                                                                                                                               |
 
 ## 作业
 
@@ -17,6 +18,7 @@
 | 1        | 03-07        | 习题 2.7（a）（b）（c）、习题 2.3（b）（c）、习题 2.4（a）（c） | 03-15（周六） | [作业一](https://educoder.ustc.edu.cn/classrooms/215/common_homework/534/detail) 在线提交      |
 | 2        | 03-16        | 习题 2.7 剩余部分、习题 2.16                                    | 03-23（周一） | [作业二](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/551/detail) 在线提交 |
 | 3        | 03-18        | 习题 3.2、习题 3.4(b)                                           | 03-27（周五） | [作业三](https://educoder.ustc.edu.cn/classrooms/215/common_homework/552/detail) 在线提交      |
+| 4        | 03-25        | 习题 3.8、习题 3.11、习题 3.16、习题 3.17                           | 04-03（周五） | [作业四](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/557/detail) 在线提交 |
 
 ## 实验
 
@@ -25,6 +27,8 @@
 | X1       | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/215/shixun_homework/537/detail?tabs=0) X1. 理解和使用 C++ 运行时类型信息 (RTTI)(选做) | 03-22    |
 | X2       | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/215/shixun_homework/548/detail?tabs=0) X2. 理解和使用 C++ 的智能指针 (选做)           | 03-22    |
 | 1        | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/536/detail?tabs=0) 词法分析器的构造                          | 03-22    |
+| 2-1      | 03-25    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/542/detail?tabs=0) ANTLR4 的基础应用 - 为正规式生成解析树    | 04-06    |
+| 2-2      | 03-25    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/543/detail?tabs=0) ANTLR4 的进阶应用 - 为 C1 语言构造解析器  | 04-13    |
 
 > [编译原理 (H) 2026 春季学期实验分组与要求](./common/编译原理与技术实验设计.docx)
 >
