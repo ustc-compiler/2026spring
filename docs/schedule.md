@@ -16,6 +16,8 @@
 | #12  | 04-13 | 类型检查：[part1](./slides/05-typecheck-Part1.pdf), [part2](./slides/05-typecheck-Part2.pdf)                                                                                                                                                                                                                     | 书本第 5 章                                                                                                                                         |
 | #13  | 04-15 |                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                     |
 | #14  | 04-20 | _ = _                                                                                                                                                                                                                                                                                                            | _ = _                                                                                                                                               |
+| #15  | 04-22 | 运行时：                                                                                                                                                                                                                                                                                                         |                                                                                                                                                     |
+|      |       |                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                     |
 
 ## 作业
 
@@ -37,6 +39,7 @@
 | 1        | 03-11    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/536/detail?tabs=0) 词法分析器的构造                          | 03-22    |
 | 2-1      | 03-25    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/542/detail?tabs=0) ANTLR4 的基础应用 - 为正规式生成解析树    | 04-06    |
 | 2-2      | 03-25    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/543/detail?tabs=0) ANTLR4 的进阶应用 - 为 C1 语言构造解析器  | 04-13    |
+| 3        | 04-25    | [🔗](https://educoder.ustc.edu.cn/classrooms/215/shixun_homework/550/detail?tabs=0) 构建 SysYF 语义检查器                          | 05-10    |
 
 > [编译原理 (H) 2026 春季学期实验分组与要求](./common/编译原理与技术实验设计.docx)
 >
