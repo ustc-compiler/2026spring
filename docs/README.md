@@ -24,6 +24,8 @@
     ![教材勘误二维码](./勘误.jpg){ width="150" }
 - **实验平台**：[头歌平台](./common/educoder.md)
 - **往期课程主页**：[2025fall 课程主页](https://ustc-compiler.github.io/2025fall)
+- **课程资源：**
+  - [Chris Lattner主页](https://nondot.org/sabre/Resume.html#writing)
 
 **感谢所有作者的工作和同学的参与。**
 
