@@ -26,6 +26,7 @@
 - **往期课程主页**：[2025fall 课程主页](https://ustc-compiler.github.io/2025fall)
 - **课程资源：**
   - [Chris Lattner 主页](https://nondot.org/sabre/Resume.html#writing)
+  - [CompilerLLM](./slides/20260425-CompilerLLM-zy.pptx)
 
 **感谢所有作者的工作和同学的参与。**
 
