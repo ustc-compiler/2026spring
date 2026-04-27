@@ -22,14 +22,15 @@
 
 ## 作业
 
-| 作业编号 | 作业布置日期 | 作业题号码                                                      | 截止时间      | 作业提交方式                                                                                   |
-| -------- | ------------ | --------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------- |
-| HW1      | 03-07        | 习题 2.7（a）（b）（c）、习题 2.3（b）（c）、习题 2.4（a）（c） | 03-15（周六） | [作业一](https://educoder.ustc.edu.cn/classrooms/215/common_homework/534/detail) 在线提交      |
-| HW2      | 03-16        | 习题 2.7 剩余部分、习题 2.16                                    | 03-23（周一） | [作业二](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/551/detail) 在线提交 |
-| HW3      | 03-18        | 习题 3.2、习题 3.4(b)                                           | 03-27（周五） | [作业三](https://educoder.ustc.edu.cn/classrooms/215/common_homework/552/detail) 在线提交      |
-| HW4      | 03-25        | 习题 3.8、习题 3.11、习题 3.16、习题 3.17                       | 04-03（周五） | [作业四](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/557/detail) 在线提交 |
-| HW5      | 04-02        | 习题 3.21(a)、习题 3.22、习题 3.24、习题 3.32、习题 3.37        | 04-10（周五） | [作业五](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/558/detail) 在线提交 |
-| HW6      | 04-13        | 习题 4.7、习题 4.11、习题 4.14                                  | 04-22（周三） | [作业六](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/560/detail) 在线提交 |
+| 作业编号 | 作业布置日期 | 作业题号码                                                           | 截止时间      | 作业提交方式                                                                                   |
+| -------- | ------------ | -------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------- |
+| HW1      | 03-07        | 习题 2.7（a）（b）（c）、习题 2.3（b）（c）、习题 2.4（a）（c）      | 03-15（周六） | [作业一](https://educoder.ustc.edu.cn/classrooms/215/common_homework/534/detail) 在线提交      |
+| HW2      | 03-16        | 习题 2.7 剩余部分、习题 2.16                                         | 03-23（周一） | [作业二](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/551/detail) 在线提交 |
+| HW3      | 03-18        | 习题 3.2、习题 3.4(b)                                                | 03-27（周五） | [作业三](https://educoder.ustc.edu.cn/classrooms/215/common_homework/552/detail) 在线提交      |
+| HW4      | 03-25        | 习题 3.8、习题 3.11、习题 3.16、习题 3.17                            | 04-03（周五） | [作业四](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/557/detail) 在线提交 |
+| HW5      | 04-02        | 习题 3.21(a)、习题 3.22、习题 3.24、习题 3.32、习题 3.37             | 04-10（周五） | [作业五](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/558/detail) 在线提交 |
+| HW6      | 04-13        | 习题 4.7、习题 4.11、习题 4.14                                       | 04-22（周三） | [作业六](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/560/detail) 在线提交 |
+| HW7      | 04-27        | 习题 5.6 5) 6)、习题 5.7、习题 5.14、习题 5.16、习题 5.18、习题  5.22 | 05-10（周日） | [作业七](https://educoder.ustc.edu.cn/classrooms/26s7wof8/common_homework/561/detail) 在线提交 |
 
 ## 实验
 
