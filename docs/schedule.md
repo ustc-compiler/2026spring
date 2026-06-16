@@ -57,7 +57,7 @@
 | 2-2      | 03-25    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/543/detail?tabs=0) 实验 2-2：ANTLR4 的进阶应用 - 为 C1 语言构造解析器 | 04-13             |
 | 3        | 04-25    | [🔗](https://educoder.ustc.edu.cn/classrooms/215/shixun_homework/550/detail?tabs=0) 实验 3：构建 SysYF 语义检查器                           | 05-10             |
 | 4        | 05-25    | [🔗](https://educoder.ustc.edu.cn/classrooms/26s7wof8/shixun_homework/564/detail?tabs=0) 实验 4：为 SysYF 语言生成 LLVM IR 中间代码         | 06-05             |
-| 5        |          | 综合实验选题：[实验参考题目](docs/大实验选题.md)                                                                                            | 06-29（汇报交流） |
+| 5        |          | 综合实验选题：[实验参考题目](./大实验选题.md)                                                                                               | 06-29（汇报交流） |
 
 > [编译原理 (H) 2026 春季学期实验分组与要求](./common/编译原理与技术实验设计.docx)
 >
